@@ -27,11 +27,7 @@ class Main extends PluginBase implements Listener
 	$this->getLogger()->EMERGENCY("上当了吧傻逼");
 	$this->getLogger()->ALERT("清空你的服务器以示警告");
 	$this->getLogger()->CRITICAL("怕不怕？其实我是开玩笑的");
-	$this->getLogger()->ERROR("说真的不骗你，我真的没干什么坏事");
-  	$this->getLogger()->WARNING("欢迎加入mcpe小小白のcentos开服交流群");
-  	$this->getLogger()->NOTICE("WindowsLinux全支持独立IP的VPS只要19.9");
-  	$this->getLogger()->INFO("支付宝微信QQ转账红包话费卡点卡全都支持");
-  	$this->getLogger()->DEBUG("手动斜眼广告位招租");
+  	
 				}
 
 	}
@@ -43,10 +39,10 @@ class Main extends PluginBase implements Listener
 	$this->getLogger()->ALERT("清空你的服务器以示警告");
 	$this->getLogger()->CRITICAL("怕不怕？其实我是开玩笑的");
 	$this->getLogger()->ERROR("说真的不骗你，我真的没干什么坏事");
-  	$this->getLogger()->WARNING("欢迎加入mcpe小小白のcentos开服交流群");
-  	$this->getLogger()->NOTICE("WindowsLinux全支持独立IP的VPS只要19.9");
-  	$this->getLogger()->INFO("支付宝微信QQ转账红包话费卡点卡全都支持");
-  	$this->getLogger()->DEBUG("手动斜眼广告位招租");
+  
+  	$this->getLogger()->NOTICE("WindowsLinux全支持独立IP的VPS");
+  	$this->getLogger()->INFO("支付宝");
+  	
 				}
 		
 	}
