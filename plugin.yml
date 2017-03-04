@@ -6,7 +6,7 @@ api:
 - 2.0.0
 - 3.0.0
 load: POSTWORLD
-author: liuux
+author: liuxu
 commands:
  w:
   description: "w IP端口号打服"
